@@ -3,6 +3,8 @@
 </p>
 
 
+This project is no longer applicable!
+
 What is CICADA？
 
 CICADA is a Command-line Integration for Continuous Automated Django Administration  
